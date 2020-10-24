@@ -50,7 +50,6 @@ bot_feedback = (
 ##################    Some Initialization   #####################
 #################################################################
 #################################################################
-#This is what runs the bot.  It runs until you stop it, or it crashes.
 
 #Configure logging, but doesn't seem to do much...
 logging.basicConfig(
