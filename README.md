@@ -48,5 +48,5 @@ the path, then open up a new cmd / powershell instance in the folder and execute
 the following command.
 
 ```bash
-python engine.py
+python main.py
 ```
